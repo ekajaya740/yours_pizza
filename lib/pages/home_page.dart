@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:yours_pizza/providers/pizza_toppings_provider.dart';
-import 'package:yours_pizza/providers/radio_group_provider.dart';
 import 'package:yours_pizza/providers/total_price_provider.dart';
-import 'package:yours_pizza/widgets/cards/pizza_card.dart';
 import 'package:yours_pizza/widgets/checkboxes_groups/topping_checkboxes_group.dart';
 import 'package:yours_pizza/widgets/radio_groups/pizza_radio_group.dart';
 import 'package:yours_pizza/widgets/radio_groups/size_radio_group.dart';
